@@ -13,8 +13,7 @@ I am a **machine learning** and **data science** 💻 enthusiast. Currently, I a
 - 👯 I’m looking to collaborate on anything related to **ML** projects
 - 💬 Open to questions about Machine Learning and projects I've worked on
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fardilbhugaloo/) , [Email](mailto:fbhugaloo@gmail.com)
-
-### 📚 Looking for my Resume? E-Mail me!
+- 📚 Looking for my Resume? E-Mail me!
 
 ![Python](https://img.shields.io/badge/Python-|-green)
 ![sql](https://img.shields.io/badge/sql-|-yellow)
