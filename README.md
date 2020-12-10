@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-fardilbhugaloo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fardilbhugaloo/)](https://www.linkedin.com/in/fardilbhugaloo/)
 [![Gmail Badge](https://img.shields.io/badge/-fbhugaloo@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fbhugaloo@gmail.com)](mailto:fbhugaloo@gmail.com)
 
-I am a **machine learning** and **data science** 💻 enthusiast. Currently, I am pursuing a master in Data Science & AI at [Data ScienceTech Institute](https://www.datasciencetech.institute/). Passionate about learning new skills and solving various business problems by using machine learning. And love making a sense of information and love turning data into knowledge. 
+I am a **machine learning** and **data science** enthusiast 💻 Currently, I am pursuing a master in Data Science & AI at [Data ScienceTech Institute](https://www.datasciencetech.institute/). Passionate about learning new skills and solving various business problems by using machine learning. And love making a sense of information and love turning data into knowledge. 
 
 ## ⚡️ A Few Quick Facts
 - 🔭 I’m currently working on **Deep Learning** Projects
