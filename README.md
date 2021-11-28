@@ -14,12 +14,12 @@ I am a **machine learning** and **data science** enthusiast. Having done a maste
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fardilbhugaloo/) , [Email](mailto:fbhugaloo@gmail.com)
 - 📚 Looking for my Resume? E-Mail me!
 
-![Python](https://img.shields.io/badge/Python-|-green)
+![Excel](https://img.shields.io/badge/Python-|-green)
 ![sql](https://img.shields.io/badge/sql-|-yellow)
-![R](https://img.shields.io/badge/R-|-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-|-darkorange)
-![Keras](https://img.shields.io/badge/Keras-|-red)
-![PyTorch](https://img.shields.io/badge/PyTorch-|-purple)
+![Tableau](https://img.shields.io/badge/R-|-blue)
+![Python](https://img.shields.io/badge/TensorFlow-|-darkorange)
+![R](https://img.shields.io/badge/Keras-|-red)
+![TensorFlow](https://img.shields.io/badge/PyTorch-|-purple)
 ![AWS](https://img.shields.io/badge/AWS-|-lightgrey)
 ![Hadoop](https://img.shields.io/badge/Hadoop-|-lightblue)
 
