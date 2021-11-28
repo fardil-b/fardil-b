@@ -6,7 +6,7 @@
 I am a **machine learning** and **data science** enthusiast. Having done a master in Data Science & AI at [Data ScienceTech Institute](https://www.datasciencetech.institute/), I am passionate about learning new skills and solving various business problems by using machine learning. And love making a sense of information and love turning data into knowledge. 
 
 ## ⚡️ A Few Quick Facts
-- 🔭 I’m currently working on **Deep Learning** Projects
+- 🔭 I’m currently working on **Machine Learning** Projects
 - 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
 - 🌱 I’m currently learning **TensorFlow** and **AWS**
 - 👯 I’m looking to collaborate on anything related to **ML** projects
