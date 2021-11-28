@@ -18,10 +18,10 @@ I am a **machine learning** and **data science** enthusiast. Having done a maste
 ![SQL](https://img.shields.io/badge/SQL-|-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-|-lightblue)
 ![Python](https://img.shields.io/badge/Python-|-darkblue)
+![Pandas](https://img.shields.io/badge/Pandas-|-orange)
 ![R](https://img.shields.io/badge/R-|-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-|-darkorange)
 ![AWS](https://img.shields.io/badge/AWS-|-lightgrey)
-![Hadoop](https://img.shields.io/badge/Hadoop-|-lightblue)
 
 
 
