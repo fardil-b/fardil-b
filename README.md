@@ -15,7 +15,7 @@ I am a **machine learning** and **data science** enthusiast. Having done a maste
 - 📚 Looking for my Resume? E-Mail me!
 
 ![Excel](https://img.shields.io/badge/Excel-|-darkgreen)
-![sql](https://img.shields.io/badge/sql-|-yellow)
+![SQL](https://img.shields.io/badge/SQL-|-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-|-lightblue)
 ![Python](https://img.shields.io/badge/Python-|-darkblue)
 ![R](https://img.shields.io/badge/R-|-red)
