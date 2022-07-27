@@ -3,12 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-fardilbhugaloo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fardilbhugaloo/)](https://www.linkedin.com/in/fardilbhugaloo/)
 [![Gmail Badge](https://img.shields.io/badge/-fbhugaloo@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fbhugaloo@gmail.com)](mailto:fbhugaloo@gmail.com)
 
-I am a **machine learning** and **data science** enthusiast. Currently, doing a master in Data Science & AI at [Data ScienceTech Institute](https://www.datasciencetech.institute/), I am passionate about learning new skills and solving various business problems by using machine learning. And love making a sense of information and love turning data into knowledge. 
+I am a **data engineering** and **data science** enthusiast. Currently, doing a master in Data Science & AI at [Data ScienceTech Institute](https://www.datasciencetech.institute/), I am passionate about learning new skills and solving various business problems by using machine learning. And love making a sense of information and love turning data into knowledge. 
 
 ## ⚡️ A Few Quick Facts
-- 🔭 I’m currently working on **Machine Learning** Projects
+- 🔭 I’m currently working on **Data Warehousing** Projects
 - 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
-- 🌱 I’m currently learning **TensorFlow** and **AWS**
+- 🌱 I’m currently learning **Microsoft Azure** and **AWS**
 - 👯 I’m looking to collaborate on anything related to **ML** projects
 - 💬 Open to questions about Machine Learning and projects I've worked on
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fardilbhugaloo/) , [Email](mailto:fbhugaloo@gmail.com)
@@ -22,6 +22,10 @@ I am a **machine learning** and **data science** enthusiast. Currently, doing a 
 ![R](https://img.shields.io/badge/R-|-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-|-darkorange)
 ![AWS](https://img.shields.io/badge/AWS-|-lightgrey)
+![Microsoft Azure](https://img.shields.io/badge/Azure-|-darkblue)
+![PowerBI](https://img.shields.io/badge/PowerBI-|-darkgreen)
+
+
 
 
 
