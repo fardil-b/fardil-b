@@ -14,7 +14,7 @@ I am a **data engineering** and **data science** enthusiast. Currently, doing a 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fardilbhugaloo/) , [Email](mailto:fbhugaloo@gmail.com)
 - 📚 Looking for my Resume? E-Mail me!
 
-![Excel](https://img.shields.io/badge/Excel-|-darkgreen)
+![dbt](https://img.shields.io/badge/dbt-|-darkgreen)
 ![SQL](https://img.shields.io/badge/SQL-|-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-|-lightblue)
 ![Python](https://img.shields.io/badge/Python-|-darkblue)
