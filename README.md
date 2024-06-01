@@ -3,7 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-fardilbhugaloo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fardilbhugaloo/)](https://www.linkedin.com/in/fardilbhugaloo/)
 [![Gmail Badge](https://img.shields.io/badge/-fbhugaloo@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fbhugaloo@gmail.com)](mailto:fbhugaloo@gmail.com)
 
-I am a **data engineering** and **data science** enthusiast. Currently, doing a master in Data Science & AI at [Data ScienceTech Institute](https://www.datasciencetech.institute/), I am passionate about learning new skills and solving various business problems by using machine learning. And love making a sense of information and love turning data into knowledge. 
+Welcome to my GitHub profile!
+
+As a Lead Data Engineer and Applications Consultant, I am passionate about transforming complex data into actionable insights. I specialize in creating advanced ETL pipelines and leveraging machine learning techniques to deliver innovative data solutions that drive strategic business decisions.
+
+I thrive on challenges and am dedicated to continuously improving my skills in Microsoft Azure stacks, dbt, Databricks, and Python for data wrangling. My experience spans across the insurance and retail sectors, where I've successfully enabled teams to uncover critical customer insights, inform investment strategies, and enhance performance.
+
+Collaboration and communication are at the heart of my approach. With a multilingual background, I enjoy working with diverse teams to solve complex problems and achieve shared goals.
+
+Let's connect and create data-driven solutions that make a difference!
 
 ## ⚡️ A Few Quick Facts
 - 🔭 I’m currently working on **Data Warehousing** Projects
